@@ -1,0 +1,42 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: solid black 25px;
+}
+
+#information h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#information h2 {
+    color: darkblue;
+    font-style: italic;
+    font-weight: 600;
+    text-align: center;
+}
+
+#committees h1 {
+    color: black;
+    font-weight: bolder;
+    line-height: 60px;
+}
+
+#committees p {
+    color: black;
+    font-weight: bold;
+    text-indent: 10px;
+}
+
+#committees ul {
+    color: darkslategray;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.links-to-legislation ul {
+    color: black;
+}
